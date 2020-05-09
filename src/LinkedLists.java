@@ -40,7 +40,7 @@ public class LinkedLists {
         Node<Integer> currentNode = head;
 
         Node<Integer> comparisonNode;
-        Node<Integer> previousNode = head;
+        Node<Integer> previousNode = head; // This doesn't need to be used if you instead use comparisonNode.next for the comparison
 
         while(currentNode.next != null){
             comparisonNode = currentNode.next;
