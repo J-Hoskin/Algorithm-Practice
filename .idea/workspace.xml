@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf17565f-fa17-4ec9-b193-39034cb62667" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructures/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Factory/DataFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedLists.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Mastery/ArrayQuestions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm_Mastery/ArrayQuestions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Mastery/Core.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm_Mastery/Core.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ArrayQuestions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayQuestions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Core.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Core.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedLists.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
