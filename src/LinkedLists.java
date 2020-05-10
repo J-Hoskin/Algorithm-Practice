@@ -59,4 +59,32 @@ public class LinkedLists {
 
 
     //endregion
+
+    //region 2.2
+
+    /* DESCRIPTION: Implement a way to find the Kth element from the end of a singly linked list */
+    public int returnKthElement(Node<Integer> head, int k){
+        if(head == null || head.next == null){
+            return -1;
+        }
+
+        Node<Integer> markerNode = head;
+        Node<Integer> runnerNode = head.next;
+        int currentIteration = 1;
+
+        while(runnerNode != null){
+            if(currentIteration < k){
+                runnerNode = runnerNode.next;
+                currentIteration++;
+            }
+            else{
+                markerNode = markerNode.next;
+                runnerNode = runnerNode.next;
+            }
+        }
+
+        return currentIteration == k ? markerNode.data : -1;
+    }
+
+    //endregion
 }
