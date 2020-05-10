@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ArrayQuestions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayQuestions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Core.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Core.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Factory/DataFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Factory/DataFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedLists.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
