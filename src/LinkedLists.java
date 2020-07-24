@@ -87,4 +87,20 @@ public class LinkedLists {
     }
 
     //endregion
+
+    //region 2.3
+
+    /* Delete Middle Node - Delete the middle item of a singly linked list given only that item */
+
+    public void removeMiddleNode(Node<Integer> nodeToDelete){
+        if(nodeToDelete == null || nodeToDelete.next == null){
+            return;
+        }
+
+        nodeToDelete.data = nodeToDelete.next.data;
+        nodeToDelete.next = nodeToDelete.next.next;
+    }
+
+    //endregion
+    
 }
